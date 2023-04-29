@@ -1,0 +1,244 @@
+.GettingMessage1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 80px;
+    background: #FFFFFF;
+    top: 4044px;
+    height: 519px;
+    box-sizing: border-box;
+}
+.GettingMessage{
+    position: absolute;
+width: 1440px;
+height: 519px;
+
+top: 4044px;
+
+/* Neutral color/white */
+
+background: #FFFFFF;
+}
+.getcopy{
+    position: absolute;
+width: 572px;
+height: 359px;
+left: 680px;
+top: 80px;
+
+}
+.gettext{
+
+width: 523px;
+height: 330px;
+
+top: 109px;
+
+/* Heading/H3 */
+text-align: left;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 44px;
+line-height: 126%;
+/* or 55px */
+
+
+/* Neutral color/800 */
+
+color: #0F1017;
+
+}
+.Frame61{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+gap: 4px;
+
+position: absolute;
+width: 75px;
+height: 75px;
+left: -46px;
+top: -32px;
+
+background: rgba(225, 72, 23, 0.1);
+border-radius: 100px;
+}
+.frame66{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 4px;
+gap: 4px;
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 334px;
+top: 277px;
+
+}
+.GProfile{
+/* Profile */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 348px;
+height: 80px;
+left: 188px;
+top: 109px;
+}
+.Gname{
+    
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 252px;
+height: 70px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.Gnametext1{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 140%;
+/* identical to box height, or 34px */
+
+
+color: #292D32;
+
+width: 254px;
+height: 34px;
+
+/* Inside auto layout */
+text-align: left;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.Gnametext2{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+/* Neutral color/500 */
+
+color: #57585D;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+@media (max-width: 375px){
+    .GettingMessage1{
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 80px;
+    background: #FFFFFF;
+    top: 4160px;
+    height: 637px;
+    width: 420px;
+    box-sizing: border-box;
+    }
+    .GettingMessage{
+        position: absolute;
+width: 375px;
+height: 637px;
+
+top: 4160px;
+
+/* Neutral color/white */
+
+background: #FFFFFF;
+    }
+    .GProfile{
+        display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 327px;
+height: 58px;
+left: 24px;
+top: 56px;
+
+    }
+    .getcopy{
+        position: absolute;
+width: 327px;
+height: 427px;
+left: 24px;
+top: 154px;
+    }
+    .gettext{
+        position: absolute;
+width: 295px;
+height: 384px;
+left: 16px;
+top: 25px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 150%;
+/* or 48px */
+
+
+/* Neutral color/800 */
+
+color: #0F1017;
+
+    }
+    .Frame61{
+        position: absolute;
+width: 75px;
+height: 75px;
+left: -15px;
+top: -20px;
+
+background: rgba(225, 72, 23, 0.1);
+border-radius: 100px;
+    }
+    .frame66{
+        position: absolute;
+width: 24px;
+height: 24px;
+left: 255px;
+    top: 358px;
+    }
+}

@@ -1,0 +1,401 @@
+.Conferences1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 80px;
+    background: #FFFFFF;
+    top: 4563px;
+    height: 444px;
+    box-sizing: border-box;
+}
+.Conferences{
+    position: absolute;
+width: 1440px;
+height: 444px;
+
+top: 4563px;
+
+/* Neutral color/white */
+
+background: #FFFFFF;
+}
+.Card{
+    position: absolute;
+width: 1280px;
+height: 364px;
+left: 80px;
+top: 40px;
+
+background: #953314;
+border-radius: 15px;
+}
+.callaction2{
+    display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 373px;
+height: 60px;
+left: 815px;
+    top: 150px;
+
+}
+.ConCopy{
+    display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 516px;
+height: 154px;
+left: 115px;
+top: 110px;
+
+}
+.Cbutton1{
+    box-sizing: border-box;
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 16px 24px;
+gap: 8px;
+cursor: pointer;
+width: 202px;
+height: 60px;
+
+/* Primary color/800 */
+
+background: #E14817;
+border-radius: 8px;
+
+/* Inside auto layout */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+/* Neutral color/white */
+
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.Cbutton2{
+    box-sizing: border-box;
+
+/* Auto layout */
+cursor: pointer;
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 16px 19px;
+gap: 8px;
+justify-content: center;
+width: 150px;
+height: 60px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+text-transform: capitalize;
+
+/* Primary color/0 */
+
+color: #FCEDE8;
+
+
+/* Primary color/0 */
+
+border: 1px solid #FCEDE8;
+border-radius: 8px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.Ctext1{
+    /* Heading/H3 */
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 44px;
+line-height: 126%;
+/* or 55px */
+
+
+/* Neutral color/white */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+text-align: left;
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+}
+.Ctext2{
+    width: 517px;
+    height: 28px;
+    
+    /* Text/large/reguler */
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* identical to box height, or 175% */
+    
+    
+    /* Neutral color/50 */
+    
+    color: #CFCFD1;
+    text-align: left;
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+}
+.rect1{
+    position: absolute;
+width: 833px;
+height: 365px;
+left: 550px;
+top: 40px;
+
+}
+.rect2{
+    position: absolute;
+width: 1252px;
+height: 365px;
+left: 112px;
+    top: 40px;
+}
+.react3{
+    position: absolute;
+width: 833px;
+height: 108px;
+left: 505px;
+top: 297px;
+}
+.rect4{
+    display: none;
+}
+.rect5{
+    display: none;
+}
+.rect6{
+    display: none;
+}
+@media (max-width: 375px){
+    .Conferences1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 0px 80px;
+        background: #FFFFFF;
+        top: 4797px;
+        height: 556px;
+        box-sizing: border-box;
+        width: 420px;
+    }
+    .Conferences{
+        
+position: absolute;
+width: 375px;
+height: 556px;
+
+top: 4797px;
+
+/* Neutral color/white */
+
+background: #FFFFFF;
+
+    }
+    .Card{
+        position: absolute;
+width: 375px;
+height: 476px;
+left: 0px;
+top: 24px;
+background: #953314;
+border-radius: 15px;
+    }
+    .ConCopy{
+        display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 278px;
+height: 208px;
+left: 49px;
+top: 80px;
+    }
+    .Ctext1{
+        font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 130%;
+/* or 36px */
+
+
+/* Neutral color/white */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+text-align: left;
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+    }
+    .Ctext2{
+        /* Text/large/reguler */
+        width: 278px;
+        height: 84px;
+        
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+/* or 175% */
+
+
+/* Neutral color/50 */
+
+color: #CFCFD1;
+text-align: left;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+    }
+    .callaction2{
+        display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 279px;
+height: 124px;
+left: 48px;
+top: 320px;
+    }
+    .Cbutton1{
+        display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px 20px;
+gap: 8px;
+
+width: 279px;
+height: 54px;
+
+/* Primary color/800 */
+
+background: #E14817;
+border-radius: 8px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+    }
+    .Cbutton2{
+        box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px 20px;
+gap: 8px;
+
+width: 279px;
+height: 54px;
+
+/* Neutral color/white */
+
+border: 1px solid #FFFFFF;
+border-radius: 8px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+    }
+    .rect1{
+        display: none;
+    }
+    .rect2{
+        display: none;
+    }
+    .react3{
+        display: none;
+    }
+    .rect4{
+        display: inline;
+        position: absolute;
+width: 280px;
+height: 423px;
+left: -6px;
+top: 24px;
+    }
+    .rect5{
+        display: inline;
+        position: absolute;
+width: 421px;
+height: 475px;
+left: -50px;
+    top: 25px;
+    }
+    .rect6{
+       display: inline;
+        position: absolute;
+width: 280px;
+height: 40px;
+left: 0px;
+top: 475px;
+    }
+}
