@@ -6,10 +6,10 @@ function Features() {
         <div className='Feature'>
             <div className='ImageFE'>
                 <div className='imgfe1'>
-                <img src="img/ImageFE.svg" alt="" />
+                <img src="img/ImageFE.png" alt="" />
                 </div>
                 <div className='imgfe2'>
-                    <img src="img/teximg.svg" alt="" />
+                    <img src="img/teximg.png" alt="" />
                 </div>
             </div>
             <div className='content1'>

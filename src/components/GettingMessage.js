@@ -16,7 +16,7 @@ function GettingMessage() {
                 </div>
             </div>
             <div className='GProfile'>
-                <img src="img/Masking Man Photo.svg" alt="" />
+                <img src="img/Masking Man Photo.png" alt="" />
                 <div className='Gname'>
                     <div className='Gnametext1'>
                     Sunaryo Situmorang

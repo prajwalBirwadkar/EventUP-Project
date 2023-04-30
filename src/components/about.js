@@ -6,10 +6,10 @@ const about = () => {
         <div className='about1'>
             <div className='Assets'>
                 <div className='Assetsimg'>
-                    <img src="img/Assets.svg" alt="" />
+                    <img src="img/Assets.png" alt="" />
                 </div>
                 <div className='Assetsimg2'>
-                    <img src="img/AssetsM.svg" alt="" />
+                    <img src="img/AssetsM.png" alt="" />
                 </div>
             </div>
             <div className='Copy'>

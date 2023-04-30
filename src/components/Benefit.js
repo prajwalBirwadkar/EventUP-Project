@@ -48,10 +48,10 @@ function Benefit() {
             </div>
             <div className='Bingimg'>
               <div className='benimg1'>
-                <img src="img/benimg.svg" alt="" />
+                <img src="img/benimg.png" alt="" />
               </div>
               <div className='benimg2'>
-                <img src="img/benimg2.svg" alt="" />
+                <img src="img/benimg2.png" alt="" />
               </div>
             </div>
             <div className='BMaskgroup'>

@@ -8,10 +8,10 @@ function header() {
           <div className='header2'>
             <div className='Image'>
               <div className='img1'>
-                <img src="img/Image.svg" alt="" />
+                <img src="img/Image.png" alt="" />
               </div>
               <div className='img2'>
-                <img src="img/ImageM.svg" alt="" />
+                <img src="img/ImageM.png" alt="" />
               </div>
             </div>
             <div className='content'>
