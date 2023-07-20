@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EventUP-Project/static/css/main.4c3bc891.css",
+    "main.js": "/EventUP-Project/static/js/main.2bfbbbe0.js",
+    "static/js/787.6608512a.chunk.js": "/EventUP-Project/static/js/787.6608512a.chunk.js",
+    "index.html": "/EventUP-Project/index.html",
+    "main.4c3bc891.css.map": "/EventUP-Project/static/css/main.4c3bc891.css.map",
+    "main.2bfbbbe0.js.map": "/EventUP-Project/static/js/main.2bfbbbe0.js.map",
+    "787.6608512a.chunk.js.map": "/EventUP-Project/static/js/787.6608512a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c3bc891.css",
+    "static/js/main.2bfbbbe0.js"
+  ]
+}
